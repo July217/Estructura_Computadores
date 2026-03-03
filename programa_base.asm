@@ -49,3 +49,5 @@ fin:
     # --- Finalización del programa ---
     li $v0, 10            # Syscall para terminar ejecución
     syscall
+
+hola
